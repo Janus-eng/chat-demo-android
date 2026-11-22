@@ -1,10 +1,6 @@
 MIT License
 
-Copyright (c) 2026 Janus Eng (the Android WebView wrapper in this repository)
-
-Portions of this repository contain the static build of deepseek-ai/chat-demo,
-Copyright (c) 2026 DeepSeek, also released under the MIT License.
-The original notice for those files is kept at assets/web/LICENSE.
+Copyright (c) 2026 Janus Eng
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
