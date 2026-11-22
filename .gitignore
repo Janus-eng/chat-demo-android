@@ -1,0 +1,19 @@
+# 构建产物
+*.apk
+*.idsig
+*.aab
+build/
+.gradle/
+captures/
+
+# 本地配置与签名（绝不入库）
+local.properties
+*.keystore
+*.jks
+*.p12
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.DS_Store

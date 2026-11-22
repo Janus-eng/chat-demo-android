@@ -1,0 +1,1 @@
+(self.rspackChunkchat_demo=self.rspackChunkchat_demo||[]).push([[8560],{4979(){var e,t,a;t=(e=Prism).util.clone(e.languages.typescript),e.languages.tsx=e.languages.extend("jsx",t),delete e.languages.tsx.parameter,delete e.languages.tsx["literal-property"],(a=e.languages.tsx.tag).pattern=RegExp("(^|[^\\w$]|(?=</))(?:"+a.pattern.source+")",a.pattern.flags),a.lookbehind=!0}}]);

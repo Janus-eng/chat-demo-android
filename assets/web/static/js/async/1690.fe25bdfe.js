@@ -1,0 +1,3 @@
+(self.rspackChunkchat_demo=self.rspackChunkchat_demo||[]).push([[1690],{3153(){var a,s;(a=Prism).languages.diff={coord:[/^(?:\*{3}|-{3}|\+{3}).*$/m,/^@@.*@@$/m,/^\d.*$/m]},Object.keys(s={"deleted-sign":"-","deleted-arrow":"<","inserted-sign":"+","inserted-arrow":">",unchanged:" ",diff:"!"}).forEach(function(e){var d=s[e],r=[];/^\w+$/.test(e)||r.push(/\w+/.exec(e)[0]),e==="diff"&&r.push("bold"),a.languages.diff[e]={pattern:RegExp("^(?:["+d+`].*(?:\r
+?|
+|(?![\\s\\S])))+`,"m"),alias:r,inside:{line:{pattern:/(.)(?=[\s\S]).*(?:\r\n?|\n)?/,lookbehind:!0},prefix:{pattern:/[\s\S]/,alias:/\w+/.exec(e)[0]}}}}),Object.defineProperty(a.languages.diff,"PREFIXES",{value:s})}}]);
