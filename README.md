@@ -60,4 +60,5 @@
 
 ## 许可证
 
-上游版权归 DeepSeek 所有，原始许可证见 [assets/web/LICENSE](assets/web/LICENSE)。
+- 本仓库的壳代码（`src/`、`res/`、`AndroidManifest.xml` 等）：MIT，见根目录 [LICENSE](LICENSE)
+- 上游 chat-demo 的静态产物（`assets/web/`）：版权归 DeepSeek 所有，原始许可证见 [assets/web/LICENSE](assets/web/LICENSE)
