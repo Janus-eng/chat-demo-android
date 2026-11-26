@@ -1,5 +1,7 @@
 # Chat Demo Android（WebView 壳）
 
+An Android WebView shell for [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo). Bring your own DeepSeek API key; study only.
+
 基于开源项目 [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) v0.1.1 的静态产物打包的安卓 WebView 客户端，仅供技术学习交流。
 
 ## 简介
